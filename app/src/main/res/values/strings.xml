@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EJAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- categories -->
+
+    <string name="category_avto">Автомобили</string>
+
+
+</resources>
